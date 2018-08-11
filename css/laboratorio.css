@@ -1,0 +1,77 @@
+h1{
+	color: red;
+	font-size: 30px;
+	
+}
+h2{
+	color: red;
+	background-color: green;
+}
+h3{
+	color:white;
+	background-color: green;
+
+}
+.par2{
+	text-align: center:
+}
+.em2{
+	font-weight: bold;
+}
+.em3{
+	font-size: 40px;
+	color: red;
+}
+.em4{
+	font-size: 30px;
+	color: red;
+}
+.em5{
+	font-size: 30px;
+	color: red;
+}
+.em6{
+	color: red;
+	background-color: yellow;
+}
+.em8{
+	color: blue;
+	background-color: black;
+	font-size: 40px;
+}
+.em9{
+	color: white;
+	background-color: black;
+}
+
+.st1{
+	color: white;
+	background-color: gray;
+}
+.par6{
+	color: black;
+	background-color: red;
+}
+.par7{
+	color: black;
+	background-color: green;
+}
+.u1{
+	color: white;
+	background-color: green;
+}
+.par8{
+	color: white;
+	background-color: black;
+}
+.par9{
+	background-color: grey;
+}
+
+table{
+	margin: 0 auto;
+	border:1px solid;
+	border-collapse: collapse;
+	background-color: yellow;
+}
+
